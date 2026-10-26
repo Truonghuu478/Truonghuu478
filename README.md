@@ -26,14 +26,16 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,flutter,dart,git,github,docker&perline=10" alt="Technology stack" />
 </p>
 
-### Selected repositories
+### Selected Projects
 
-| Project | What it's about |
+Projects I build and actively explore across product engineering, automation, and AI development.
+
+| Project | Engineering focus |
 | --- | --- |
-| [HaizFlow](https://github.com/Truonghuu478/HaizFlow) | Video downloading, translation, subtitling, and dubbing desktop application |
-| [StickLife SceneForge](https://github.com/Truonghuu478/StickLife-SceneForge) | Script-to-timeline and style-consistent visual prompt workflows |
-| [AI Work Verification](https://github.com/Truonghuu478/ai-work-verification) | Experiments in verifying AI-assisted work |
-| [Go Core](https://github.com/Truonghuu478/golang-core) | Go learning and engineering notes |
+| [MoneyFlow](https://github.com/Truonghuu478/money-flow) | Personal finance product, spending insights, and AI-assisted workflows |
+| [AI Journal Hub](https://github.com/Truonghuu478/ai-journal) | Agent task observations, engineering journals, and verification workflows |
+| [Google Flow Automation](https://github.com/Truonghuu478/extention_google_flow) | Chrome extension for batch image generation and downloads |
+| [Jev Engineer Starter](https://github.com/Truonghuu478/jev-engineer-starter) | Prototype AI engineering coordinator integrated with a model gateway |
 
 ### GitHub activity
 
