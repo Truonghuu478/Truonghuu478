@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33955803/README.md)
 <div align="center">
 
 # Hi, I'm Le Huu Truong 👋
